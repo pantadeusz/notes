@@ -15,6 +15,7 @@
 1. Ciekawsze kwestie techniczne
    * język script
    * OP_RETURN
+   * Lightning Network
 1. Historia
    * Hal Finney
    * Pizza
@@ -24,7 +25,8 @@
    * ICO
    * Scaling Debate - SegWit/sidechain/multisig/timelock/...
        * SegWit2X, UASF, Bitcoin Cash, BitPay, Coinbase, bitcoin.com, flippening
-       * Lightning Network, Liquid, RSK, ... 
+       * Lightning Network, Liquid, RSK, ...
+   * aktualnie + ostatni halving + blok 0000000000000000000d656be18bb095db1b23bd797266b0ac3ba720b1962b1e (629999)
 1. Ryzyka i przemyślenia
    * Mining Death Spiral
    * Przejęcie przez rządy/regulacja
