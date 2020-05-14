@@ -11,7 +11,7 @@
    * łańcuch podpisów cyfrowych
    * łańcuch połączonych bloków
    * PoW
-   * nagroda za blok
+   * nagroda za blok + halving/halvening
 1. Ciekawsze kwestie techniczne
    * język script
    * OP_RETURN
