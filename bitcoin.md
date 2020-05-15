@@ -26,6 +26,7 @@
    * Scaling Debate - SegWit/sidechain/multisig/timelock/...
        * SegWit2X, UASF, Bitcoin Cash, BitPay, Coinbase, bitcoin.com, flippening
        * Lightning Network, Liquid, RSK, ...
+       * [hashrate historia](https://bitinfocharts.com/comparison/hashrate-btc-bch-bsv.html#log)
    * aktualnie + ostatni halving + blok 0000000000000000000d656be18bb095db1b23bd797266b0ac3ba720b1962b1e (629999)
 1. Ryzyka i przemyślenia
    * Mining Death Spiral
