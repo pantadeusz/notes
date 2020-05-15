@@ -20,7 +20,7 @@
    * Hal Finney
    * Pizza
    * Giełdy
-   * Silkroad + Hans Ulbricht
+   * Silkroad + Ross Ulbricht
    * Altcoiny - Litecoin, Dogecoin, Namecoin, Monero, Ethereum, Tether, ...
    * ICO
    * Scaling Debate - SegWit/sidechain/multisig/timelock/...
