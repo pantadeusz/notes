@@ -15,10 +15,11 @@
 1. Ciekawsze kwestie techniczne
    * język script
    * OP_RETURN
-   * Lightning Network
+   * [Lightning Network](https://lightning.network/lightning-network-paper.pdf) oraz [wytłumaczenie od Antonopolusa](https://www.youtube.com/watch?v=gF_ZQ_eijPs)
 1. Historia
-   * Hal Finney
-   * Pizza
+   * Hal Finney [Running Bitcoin](https://twitter.com/halfin/status/1110302988)
+   * [HODL](https://bitcointalk.org/index.php?topic=375643.0)
+   * [Pizza](https://bitcointalk.org/?topic=137.0)
    * Giełdy
    * Silkroad + Ross Ulbricht
    * Altcoiny - Litecoin, Dogecoin, Namecoin, Monero, Ethereum, Tether, ...
@@ -26,6 +27,7 @@
    * Scaling Debate - SegWit/sidechain/multisig/timelock/...
        * SegWit2X, UASF, Bitcoin Cash, BitPay, Coinbase, bitcoin.com, flippening
        * Lightning Network, Liquid, RSK, ...
+       * [Artykuł na forbes](https://www.forbes.com/sites/laurashin/2017/11/12/bitcoin-cash-skyrockets-bitcoin-price-drops-as-civil-war-continues/#6525d33e35b5) [Jak wyglądało na polskim forum w czasie niedoszłego flippeningu](https://forum.bitcoin.pl/viewtopic.php?t=24513) oraz [komentarz N.Dorniera do BitPay i ich dość mętnych zagrań](https://twitter.com/NicolasDorier/status/898378514256207872)
        * [hashrate historia](https://bitinfocharts.com/comparison/hashrate-btc-bch-bsv.html#log)
    * aktualnie + ostatni halving + blok 0000000000000000000d656be18bb095db1b23bd797266b0ac3ba720b1962b1e (629999)
 1. Ryzyka i przemyślenia
@@ -48,4 +50,7 @@
    * The Bitcoin Standard (to ja mam na liście do przeczytania) - 
    * Programming Bitcoin - Jimmy Song
    * [lista u J.Loppa](https://www.lopp.net/bitcoin-information/books.html)
+1. Do obejżenia
+   * Meltem Demirors [Wystąpienie w kongresie USA](https://www.youtube.com/watch?v=uxhS8Bdddak) oraz na konferencji [Magical Crypto Friends](https://www.youtube.com/watch?v=UgKywMSDi20)
+   * Andreas Antonopolus [Wystąpienie w kongresie Kanady](https://www.youtube.com/watch?v=xUNGFZDO8mM) [O skalowaniu](https://www.youtube.com/watch?v=xUNGFZDO8mM) [O ]
  
