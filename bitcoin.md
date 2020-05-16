@@ -52,5 +52,5 @@
    * [lista u J.Loppa](https://www.lopp.net/bitcoin-information/books.html)
 1. Do obejżenia
    * Meltem Demirors [Wystąpienie w kongresie USA](https://www.youtube.com/watch?v=uxhS8Bdddak) oraz na konferencji [Magical Crypto Friends](https://www.youtube.com/watch?v=UgKywMSDi20)
-   * Andreas Antonopolus [Wystąpienie w kongresie Kanady](https://www.youtube.com/watch?v=xUNGFZDO8mM) [O skalowaniu](https://www.youtube.com/watch?v=xUNGFZDO8mM) [O ]
+   * Andreas Antonopolus [Wystąpienie w kongresie Kanady](https://www.youtube.com/watch?v=xUNGFZDO8mM)
  
